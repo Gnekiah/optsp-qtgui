@@ -1,0 +1,3 @@
+[submodule "optsp-ctpcore"]
+	path = optsp-ctpcore
+	url = git@github.com:optsp/optsp-ctpcore
